@@ -1,2 +1,2 @@
-let x = prompt("Введите число");
+var x = prompt("Введите число");
 alert(x)
